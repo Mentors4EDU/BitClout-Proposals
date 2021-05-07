@@ -28,7 +28,7 @@ Please replace this line with a brief summary of your proposal
 > Milestone #3: (05/01/1990)
 
 ## *Check* the boxes that apply
-<!-- Ex. supervision, sending messages, texter profiles -->
+
 **Stage?**
 - [ ] Idea
 - [ ] Proposal
