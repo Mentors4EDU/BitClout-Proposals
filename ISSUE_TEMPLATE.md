@@ -1,24 +1,63 @@
-# Please follow the general troubleshooting steps first:
+# CIPs Proposal Submission Form:
 
-- [ ] Ran ?
-- [ ] Ran ?
-- [ ] If you're seeing permission errors ?
+**Check the Category**
+- [ ] UI
+- [ ] UX
+- [ ] Social
+- [ ] Architecture
 
 <!-- You can erase any parts of this template not applicable to your Issue. -->
 
-### Bug reports:
+### Introduction:
 
-Please replace this line with a brief summary of your issue **AND** if reporting a build issue include the link from:
+Please replace this line with a brief summary of your proposal
 
 ### Features:
 
-**Please note by far the quickest way to get a new feature is to file a Pull Request.**
+**Please list features expected to be integrated, designed or built?**
+- Feature A
+- Feature B
+- Feature C
 
-## *Who* is the bug affecting?
-<!-- Ex. All supervisors, Sally Supervisor, Level 1 CCs -->
+## *What* are the Milestones?
+<!-- Please list the milestones and potential timelines for the project -->
+> Milestone #1: (01/01/1990)
 
-## *What* is affected by this bug?
+> Milestone #2: (03/01/1990)
+
+> Milestone #3: (05/01/1990)
+
+## *Check* the boxes that apply
 <!-- Ex. supervision, sending messages, texter profiles -->
+**Stage?**
+- [ ] Idea
+- [ ] Proposal
+- [ ] In Development
 
-## *When* does this occur?
-<!-- Ex. After ending a conversation, every night at 3pm, when I sign off -->
+**Bounty?**
+- [ ] Project Market Cap Bounty
+- [ ] No Project Market Cap Bounty
+
+**Type?**
+- [ ] Soft Fork
+- [ ] Hard Fork
+- [ ] Application
+- [ ] Website Integration
+
+## *Who* is the Author?
+INSERT NAME HERE
+
+## *What* is your BitClout Profile URL?
+INSERT URL HERE
+
+## Notes
+INSERT NOTES (Optional)
+
+**REFERENCES**
+INSERT REFERENCES
+
+**Acknowledgements**
+I would like to acknowledge ...... (OPTIONAL)
+
+**Disclaimer** // DO NOT REMOVE
+*Once there is general consensus, projects likely can be labeled as approved. Please invest or follow projects at your own risk. This is not investment advice, and everything here is meant to be considered on an experimental basis. We are not liable to any decisions you make or decide to make.*
