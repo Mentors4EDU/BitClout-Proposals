@@ -45,19 +45,25 @@ Please replace this line with a brief summary of your proposal
 - [ ] Website Integration
 
 ## *Who* is the Author?
+
 INSERT NAME HERE
 
 ## *What* is your BitClout Profile URL?
+
 INSERT URL HERE
 
 ## Notes
+
 INSERT NOTES (Optional)
 
 **REFERENCES**
+
 INSERT REFERENCES
 
 **Acknowledgements**
+
 I would like to acknowledge ...... (OPTIONAL)
 
 **Disclaimer** // DO NOT REMOVE
+
 *Once there is general consensus, projects likely can be labeled as approved. Please invest or follow projects at your own risk. This is not investment advice, and everything here is meant to be considered on an experimental basis. We are not liable to any decisions you make or decide to make.*
